@@ -1,0 +1,26 @@
+.box {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1em;
+    width: fit-content;
+    border-radius: 1pc;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#btn {
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    margin: 2em 0;
+}
+
+#label {
+    font-size: 10px;
+}
